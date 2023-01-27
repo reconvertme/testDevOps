@@ -1,4 +1,4 @@
-print("Hello le Monde entier")
+print("Hello le Monde Entier")
 
 nom = "DUPONT"
 age = 12
